@@ -221,3 +221,10 @@ button:hover {
     background-color: #7aa3e6;
     cursor: pointer;
 }
+
+footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+    padding: 30px;
+    text-align: center;
+}
