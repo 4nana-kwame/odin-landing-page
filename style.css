@@ -163,3 +163,22 @@ section {
 .card-description p {
     color: #5f6164;
 }
+
+#testimony {
+    background-color: #e5e7eb;
+    padding: 50px;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1f2937;
+    margin-bottom: 10px;
+}
+
+.client {
+    text-align: center;
+    font-size: 25px;
+    color: #1f2937;
+}
